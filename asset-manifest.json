@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/toa-blog/temple-of-arts/static/js/main.e1e5b07c.chunk.js",
-    "main.js.map": "/toa-blog/temple-of-arts/static/js/main.e1e5b07c.chunk.js.map",
-    "runtime-main.js": "/toa-blog/temple-of-arts/static/js/runtime-main.eae9d1ae.js",
-    "runtime-main.js.map": "/toa-blog/temple-of-arts/static/js/runtime-main.eae9d1ae.js.map",
-    "static/js/2.5ad03851.chunk.js": "/toa-blog/temple-of-arts/static/js/2.5ad03851.chunk.js",
-    "static/js/2.5ad03851.chunk.js.map": "/toa-blog/temple-of-arts/static/js/2.5ad03851.chunk.js.map",
-    "index.html": "/toa-blog/temple-of-arts/index.html",
-    "static/js/2.5ad03851.chunk.js.LICENSE.txt": "/toa-blog/temple-of-arts/static/js/2.5ad03851.chunk.js.LICENSE.txt",
-    "static/media/boxing.31dee2a0.png": "/toa-blog/temple-of-arts/static/media/boxing.31dee2a0.png",
-    "static/media/karate.ed38654f.png": "/toa-blog/temple-of-arts/static/media/karate.ed38654f.png",
-    "static/media/stance.b382bcb5.png": "/toa-blog/temple-of-arts/static/media/stance.b382bcb5.png"
+    "main.js": "/temple-of-arts/static/js/main.e1e5b07c.chunk.js",
+    "main.js.map": "/temple-of-arts/static/js/main.e1e5b07c.chunk.js.map",
+    "runtime-main.js": "/temple-of-arts/static/js/runtime-main.a1faf47b.js",
+    "runtime-main.js.map": "/temple-of-arts/static/js/runtime-main.a1faf47b.js.map",
+    "static/js/2.5ad03851.chunk.js": "/temple-of-arts/static/js/2.5ad03851.chunk.js",
+    "static/js/2.5ad03851.chunk.js.map": "/temple-of-arts/static/js/2.5ad03851.chunk.js.map",
+    "index.html": "/temple-of-arts/index.html",
+    "static/js/2.5ad03851.chunk.js.LICENSE.txt": "/temple-of-arts/static/js/2.5ad03851.chunk.js.LICENSE.txt",
+    "static/media/boxing.31dee2a0.png": "/temple-of-arts/static/media/boxing.31dee2a0.png",
+    "static/media/karate.ed38654f.png": "/temple-of-arts/static/media/karate.ed38654f.png",
+    "static/media/stance.b382bcb5.png": "/temple-of-arts/static/media/stance.b382bcb5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.eae9d1ae.js",
+    "static/js/runtime-main.a1faf47b.js",
     "static/js/2.5ad03851.chunk.js",
     "static/js/main.e1e5b07c.chunk.js"
   ]
