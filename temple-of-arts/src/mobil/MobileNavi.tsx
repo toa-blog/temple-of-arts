@@ -12,7 +12,7 @@ const naviStyle = {
   position: "fixed",
   left: "0px",
   top: "0px",
-  zIndex: 2,
+  zIndex: 3,
   margin: "0",
 
 } as React.CSSProperties;

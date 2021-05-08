@@ -2,10 +2,14 @@ import React from "react";
 import Post from '../posts/Post'
 
 const mobiStyle = {
-  width: "100%",
-  height: "auto",
-  margin: "0px 0px 50px 0px",
-  
+  width: "99%",
+  height: "100vh",
+  margin: "0px",
+  display: "flex",
+  flexDirection: "column",
+  alignItems: "center",
+  overflowY: "scroll",
+  justifyContent: "space-between",
 } as React.CSSProperties;
 
 
