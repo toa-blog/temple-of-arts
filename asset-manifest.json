@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/temple-of-arts/static/js/main.4db1f7a8.chunk.js",
-    "main.js.map": "/temple-of-arts/static/js/main.4db1f7a8.chunk.js.map",
+    "main.js": "/temple-of-arts/static/js/main.325e798a.chunk.js",
+    "main.js.map": "/temple-of-arts/static/js/main.325e798a.chunk.js.map",
     "runtime-main.js": "/temple-of-arts/static/js/runtime-main.a1faf47b.js",
     "runtime-main.js.map": "/temple-of-arts/static/js/runtime-main.a1faf47b.js.map",
     "static/js/2.5ad03851.chunk.js": "/temple-of-arts/static/js/2.5ad03851.chunk.js",
@@ -10,11 +10,11 @@
     "static/js/2.5ad03851.chunk.js.LICENSE.txt": "/temple-of-arts/static/js/2.5ad03851.chunk.js.LICENSE.txt",
     "static/media/boxing.31dee2a0.png": "/temple-of-arts/static/media/boxing.31dee2a0.png",
     "static/media/karate.ed38654f.png": "/temple-of-arts/static/media/karate.ed38654f.png",
-    "static/media/kung-fu.c6e2c305.jpg": "/temple-of-arts/static/media/kung-fu.c6e2c305.jpg"
+    "static/media/mma.13ebe2f2.jpg": "/temple-of-arts/static/media/mma.13ebe2f2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a1faf47b.js",
     "static/js/2.5ad03851.chunk.js",
-    "static/js/main.4db1f7a8.chunk.js"
+    "static/js/main.325e798a.chunk.js"
   ]
 }
