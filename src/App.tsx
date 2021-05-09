@@ -4,7 +4,7 @@ import FighterNavi from "./web/ArtsNavi";
 import MobileArtsNavi from "./mobil/MobilArtsNavi";
 import MobileNavi from "./mobil/MobileNavi";
 import SideNavi from "./mobil/sideNavi";
-import Post from "./posts/Post";
+import PostCart from "./posts/PostCart";
 
 const appStyle = {
   width: "100%",
@@ -29,15 +29,15 @@ const App = () => {
       <SideNavi openClose={openClose} />
       <MobileNavi openClose={openClose} openCloseNavi={openCloseNavi} />
       <div>
-        <Post />
-        <Post />
-        <Post />
+        <PostCart />
+        <PostCart />
+        <PostCart />
       </div>
       <MobileArtsNavi />
       <div>
-        <Post />
-        <Post />
-        <Post />
+        <PostCart />
+        <PostCart />
+        <PostCart />
       </div>
     </div>
   );
